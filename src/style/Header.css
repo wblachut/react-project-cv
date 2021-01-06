@@ -1,0 +1,25 @@
+.navbar, .navbar-header, .navbar-nav {
+  background-color: rgb(31, 19, 5);
+  color: white;
+  height: 8vh;
+}
+
+.navbar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-header div {
+  padding: 20px;
+  font-size: 1.5rem;
+}
+
+.edit-cv-btn {
+  margin-right: 30px;
+  padding: 10px;
+}
+
+.gh-edit {
+  padding-right: 5px;
+}
