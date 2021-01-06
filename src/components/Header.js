@@ -35,7 +35,7 @@ export class Header extends React.Component {
                   onClick={this.onEditToggle.bind(this)}>
                   <FontAwesomeIcon icon={["fas", "user-edit"]} className="gh-edit"/>
                 {this.props.editTag}</button>
-              <a href="https://github.com/wblachut" className="gh-btn">
+              <a href="https://github.com/wblachut/react-project-cv" className="gh-btn">
                 <FontAwesomeIcon icon={["fab", "github"]} className="gh-icon" />
                   </a><i className="fab fa-github"></i>
             </div>
