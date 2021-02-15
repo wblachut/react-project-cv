@@ -1,9 +1,8 @@
 # CV Builder
 
-[Build your CV!](https://wblachut.github.io/react-project-cv/)
+[Go to the App!](https://wblachut.github.io/react-project-cv/)
 
 #
-
 ## PROJECT: CV APPLICATION
 
 Project is a part of The Odin Project [JavaScript learning curriculum](https://www.theodinproject.com/courses/javascript). To learn more open the [TOP assignment](https://www.theodinproject.com/courses/javascript/lessons/cv-application).
@@ -12,11 +11,9 @@ Project is a part of The Odin Project [JavaScript learning curriculum](https://w
 
 I made it! I have used `npx create-react-app cv-project` for the 1st time! Cool right?
 
-This projects implements basic concepts of react. Building this application allowed to understand a new technology [React Framework](https://reactjs.org/). I've learned about `components`, `state` and `lifecycle methods`. You can change displayed information in the CV after changing mode to `edit` (first navbar button). In edit mode you can also add and delete new elements for skills, education and other categories. `Others.js `component was changed to be functional component. Have a look at the displays bellow.
+This projects implements basic concepts of react. Building this application allowed to understand a new technology [React Framework](https://reactjs.org/). I've learned about `components`, `state` and `lifecycle methods`. You can change displayed information in the CV after changing mode to `edit` (first navbar button). In edit mode you can also add and delete new elements for skills, education and other categories. `Others.js `component was changed to be `functional component`. Have a look at the display bellow.
 
 ![](/public/cv1.gif)
-
-![](/public/cv2.gif)
 
 ## Concepts used and learned:
 
