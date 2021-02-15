@@ -1,6 +1,6 @@
 # CV Builder
 
-[Build your CV with here!](https://wblachut.github.io/react-project-cv/)
+[Build your CV!](https://wblachut.github.io/react-project-cv/)
 
 #
 
