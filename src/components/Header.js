@@ -1,5 +1,8 @@
 import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+
+import PropTypes from 'prop-types';
 
 export class Header extends React.Component {
   constructor(props) {
@@ -19,7 +22,6 @@ export class Header extends React.Component {
       return null
     }
   
-  // necessary ?
   onEditToggle() {
     this.props.edit(this.state.editMode);
   }
@@ -46,8 +48,8 @@ export class Header extends React.Component {
   }
 } 
 
-// Header.propTypes = {
-//   editTag: React.PropTypes.string,
-//   editMode: React.PropTypes.string,
-//   edit: React.PropTypes.func,
-// };
+Header.propTypes = {
+  editTag: PropTypes.string,
+  editMode: PropTypes.string,
+  edit: PropTypes.func,
+};
