@@ -22,7 +22,7 @@ This projects implements basic concepts of react. Building this application allo
 - state and setState
 - deploy using GitHub Pages
 
-# Tools:
+## Tools:
 
 - Visual Studio Code
 - Javascript
